@@ -1,0 +1,84 @@
+.mainHome {
+width: 100%
+}
+.mainHeader {
+  text-align: center;
+  margin: 0 !important;
+}
+
+.header {
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.content {
+    border: 1px solid #ccc;
+    align-items: center;
+    display: flex;
+    margin: 0 !important;
+    padding: 50px;
+}
+.mainContent {
+      padding: 32px 325px 0px 325px;
+      margin: 0 !important;
+      background-color: #cccccc59;
+}
+.headerContainer {
+  border: 1px solid #ccc;
+}
+
+.dataContainer {
+  border-bottom: 1px solid #ccc;
+}
+
+.headerContainer div {
+  border-left: 1px solid #ccc;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.dataContainer div  {
+    border-left: 1px solid #ccc;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.editIcon {
+  padding-right: 8px;
+  cursor: pointer;
+}
+
+.editIconContainer {
+  border-right:  1px solid #ccc;
+}
+
+.modalContainer div {
+  padding: 4px;
+}
+
+.submitContainer button{
+  float: right;
+}
+
+.modalContainer input {
+  border: 1px solid #ccc;
+}
+
+.notificationContainer {
+    padding-left: 25px;
+    color: cornflowerblue;
+    font-weight: 500;
+}
+
+.closeIcon {
+  float: right;
+  padding-right: 8px;
+  cursor: pointer;
+}
+
+.editHeaderContainer {
+  padding-bottom: 20px !important;
+  font-weight: 500;
+}
